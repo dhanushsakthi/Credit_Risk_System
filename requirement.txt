@@ -9,5 +9,5 @@ scikit-learn
 pip install streamlit numpy scikit-learn
 
 #USAGE
-#
+#Run the Streamlit application:
 streamlit run model.py
