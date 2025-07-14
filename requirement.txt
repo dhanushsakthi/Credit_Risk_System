@@ -6,4 +6,8 @@ numpy
 scikit-learn
 
 #Installation
+pip install streamlit numpy scikit-learn
+
+#USAGE
+#
 streamlit run model.py
